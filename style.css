@@ -1297,6 +1297,15 @@ footer a {
     margin-top: 20px;
 }
 
+.card.out-of-stock .card-img {
+    opacity: 0.5;
+}
+
+.card.out-of-stock .price {
+    color: #b23a3a;
+    font-size: 20px;
+}
+
 /* ===== PROMO BANNER IMAGE (hero) ===== */
 
 .promo-banner-wrap {
